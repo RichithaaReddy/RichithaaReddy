@@ -1,4 +1,4 @@
-#Hello:
+# Hello
 I am a Data Science enthusiast with experience in machine learning, EDA, and predictive modeling. Skilled in Python, SQL, and building end-to-end data-driven applications using React and Django. Passionate about turning data into actionable insights and real-world solutions.
 
 
@@ -9,7 +9,7 @@ I am a Data Science enthusiast with experience in machine learning, EDA, and pre
 ![](https://nirzak-streak-stats.vercel.app/?user=RichithaaReddy&theme=rose&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RichithaaReddy&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
